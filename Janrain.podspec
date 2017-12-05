@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.homepage      = "https://github.com/klam-networkten/jump.ios"
   s.license       = { :type => 'BSD', :file => 'LICENSE' }
   s.author        = "Janrain"
-  s.source        = { :git => "https://github.com/klam-networkten/jump.ios", :branch => "iOS_Libraries_5.0.4" }
+  s.source        = { :git => "https://github.com/klam-networkten/jump.ios", :branch => "tenplay_iOS_Lib_5.0.4" }
   s.platform      = :ios, '8.0'
   s.source_files  = "Janrain/**/*.{h,m}"
   s.exclude_files = "Janrain/JRCapture/**/*"
